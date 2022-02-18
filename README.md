@@ -8,4 +8,7 @@ React Native for Expo
 
 API/ GET
 
-
+<a href="https://www.loom.com/share/4f54b9fbac22445e97aa5f5ec05e702c">
+    <p>Re: Loom | Free Screen & Video Recording Software - 17 February 2022 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4f54b9fbac22445e97aa5f5ec05e702c-with-play.gif">
+  </a>
